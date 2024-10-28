@@ -1,0 +1,7 @@
+ # Commit Message Template
+
+### Files Added ###
+- [ ] 
+
+### Notes ###
+- [ ]
